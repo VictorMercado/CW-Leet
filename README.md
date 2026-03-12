@@ -1,2 +1,2 @@
-# CodeWars-LeetCode
-Solutions to CodeWars and LeetCode
+# CodeWars LeetCode
+Repo for Solutions
